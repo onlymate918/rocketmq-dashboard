@@ -1,3 +1,5 @@
+# ** 这个版本与RocketMQ 4.9.5 结合使用无问题（理论上兼容RocketMQ 4.X），官方标注的release 1.0.0版本 打包启动有问题，新版本使用有不兼容的功能
+
 ## [Apache RocketMQ](https://github.com/apache/rocketmq) Dashboard [![Build Status](https://api.travis-ci.com/apache/rocketmq-dashboard.svg?branch=master)](https://travis-ci.com/github/apache/rocketmq-dashboard) [![Coverage Status](https://coveralls.io/repos/github/apache/rocketmq-dashboard/badge.svg?branch=master)](https://coveralls.io/github/apache/rocketmq-dashboard?branch=master)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/apache/rocketmq-dashboard.svg)](http://isitmaintained.com/project/apache/rocketmq-dashboard "Average time to resolve an issue")
@@ -69,3 +71,6 @@ We are always very happy to have contributions, whether for trivial cleanups or 
 
 ## License
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) Copyright (C) Apache Software Foundation
+
+
+
